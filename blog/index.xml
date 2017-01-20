@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Ivan Bocharov</title>
-    <link>https://bocharov-ivan.github.io/blog/</link>
+    <link>https://ivan-bocharov.github.io/blog/</link>
     <description>Recent content in Blog on Ivan Bocharov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 10 Oct 2016 17:09:14 -0500</lastBuildDate>
-    <atom:link href="https://bocharov-ivan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ivan-bocharov.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello world!</title>
-      <link>https://bocharov-ivan.github.io/blog/hello-world/</link>
+      <link>https://ivan-bocharov.github.io/blog/hello-world/</link>
       <pubDate>Mon, 10 Oct 2016 17:09:14 -0500</pubDate>
       
-      <guid>https://bocharov-ivan.github.io/blog/hello-world/</guid>
+      <guid>https://ivan-bocharov.github.io/blog/hello-world/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class=&#34;n&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;Hello world!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
