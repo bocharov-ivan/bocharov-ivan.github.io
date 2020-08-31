@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ivan Bocharov</title>
@@ -17,8 +17,8 @@
       <pubDate>Sat, 12 May 2018 16:00:05 +0000</pubDate>
       
       <guid>https://ivan-bocharov.github.io/about/</guid>
-      <description>I am currently working in Signal Processing Systems group at TU/e as a PhD student. My research interests include probabilistic modeling, variational inference and audio. I apply techniques and tools from machine learning to model real-world acoustic environments.
-Aside from my main research interests I am also interested in programming language and compiler design. I am a big fan of trading (or collectible) card games such as Magic: The Gathering, Hearthstone and many others.</description>
+      <description>I am currently working in Signal Processing Systems group at TU/e as a PhD student. My research interests include probabilistic programming language design, variational inference, and audio. I apply techniques and tools from machine learning to model real-world acoustic environments.
+I am a big fan of trading (or collectible) card games such as Magic: The Gathering, Hearthstone and many others.</description>
     </item>
     
   </channel>
